@@ -125,7 +125,7 @@ The aim is to understand:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project presents a **structured, data-driven view** of terrorism trends in India over two decades.  
 It highlights long-term patterns, evolving tactics, and human cost — with special focus on **cross-border terrorism in Jammu & Kashmir**.
@@ -134,6 +134,5 @@ The analysis emphasizes **careful interpretation**, transparency, and analytical
 
 ---
 
-⭐ *If you find this project useful, feel free to explore, fork, or build upon it.*
 
 
